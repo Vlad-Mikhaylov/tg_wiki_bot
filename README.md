@@ -9,6 +9,6 @@ languages suplied: Russian, English
   
 install all requirements to try the trainer or paste into terminal  
 //  
-pip install wikipedia
+pip install wikipedia  
 pip install telebot
 //
