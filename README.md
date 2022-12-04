@@ -30,7 +30,7 @@ Modules, used in this project are quick-accepted and easy to undestand, so you c
 Just paste into terminal:  
 
 git clone https://github.com/Vlad-Mikhaylov/tg_wiki_bot.git  
-cd Preparation_for_calculus  
+cd Wiki Bot 
 git checkout dev  
 pip install -r requirements.txt  
 
