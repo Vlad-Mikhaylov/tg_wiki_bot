@@ -1,7 +1,7 @@
 import telebot, wikipedia, re
 from telebot import types
 
-bot = telebot.TeleBot('5467142177:AAEpDG53itOlL9DtiHe33yRbk3KjnvisssM') #set telegram bot
+bot = telebot.TeleBot('your_token') #set telegram bot
 
 def getwiki(s):
     '''work with wiki article`s presentation'''
