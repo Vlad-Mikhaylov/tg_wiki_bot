@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">MIPT student, Python enjoyer from Russia 🇷🇺</h3>  
   
-# tg wiki bot  
+# tg wiki bot    
+# https://t.me/wiki_links_bot
   
 Telegram bot aimed to work with articles from www.wikipedia.com.  
 functions: find arcticle in wiki by one word  
